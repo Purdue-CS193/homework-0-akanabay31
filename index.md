@@ -1,10 +1,10 @@
-```
+
 # Allison Kanabay's First CS193 Homework
 - Helps with CS18000
 - Good introduction to a lot of important programs
 - Supportive TAs
 ```
-
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
